@@ -16,5 +16,3 @@ cd ..
 
 rem open file explorer to image folder 
 start explorer %imageFolder%
-
-rem exit
